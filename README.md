@@ -1,30 +1,41 @@
 <!-- Profile README for aayushshah1 -->
 
-<h1 align="center">Hi, I'm Aayush Shah</h1>
+<!-- HERO / TOP -->
 <p align="center">
-  Full Stack Developer • Exploring Agentic Automations
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7c3aed&height=220&section=header&text=Aayush%20Shah&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header" />
 </p>
 
 <p align="center">
-  <a href="https://askautomations.com"><b>askautomations.com</b></a>
+  <img src="./Avatar.png" width="140" alt="Aayush Shah" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aayush-shah-cs/">LinkedIn</a> •
-  <a href="https://x.com/AayushShah001">X</a> •
-  <a href="https://drive.google.com/file/d/1LKfqJ3Kwvq-W7qEGKP8-hYyRFxTVi1g8/view?usp=sharing">Resume</a>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=650&color=9D7BFF&center=true&vCenter=true&width=780&lines=Full+Stack+Developer;Exploring+Agentic+Automations;I+turn+coffee+into+deployments+(sometimes+also+bugs);Shipping+AskAutomations.com"
+    alt="Typing SVG"
+  />
+</p>
+
+<p align="center">
+  <a href="https://askautomations.com"><img src="https://img.shields.io/badge/AskAutomations.com-111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="AskAutomations" /></a>
+  <a href="https://www.linkedin.com/in/aayush-shah-cs/"><img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/AayushShah001"><img src="https://img.shields.io/badge/X-111?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://drive.google.com/file/d/1LKfqJ3Kwvq-W7qEGKP8-hYyRFxTVi1g8/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-111?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
+</p>
+
+<p align="center">
+  <sub>Current status: <i>"It works on my machine"</i> ✅</sub>
 </p>
 
 ---
 
-## What I'm building
-- 🚀 **AskAutomations** — practical automation workflows, agentic systems, and integrations
-  - Website: https://askautomations.com
+## Now building
+- **AskAutomations** — practical automation workflows + agentic systems + integrations.
+  - Link: https://askautomations.com
 
-## What I do
-- 🧠 Build full-stack products end-to-end (backend, frontend, infra)
-- 🤖 Experiment with **agentic automation** (orchestrations, tools, and workflows)
-- ⚙️ Love turning messy processes into reliable systems
+## Research
+- **High-Performance File Searching with Rust** (IEEE)
+  - https://ieeexplore.ieee.org/document/10984781
 
 ---
 
@@ -62,10 +73,11 @@
 ---
 
 ## Links
-- 🌐 Website: https://askautomations.com
-- 💼 LinkedIn: https://www.linkedin.com/in/aayush-shah-cs/
-- 🧵 X: https://x.com/AayushShah001
-- 📄 Resume: https://drive.google.com/file/d/1LKfqJ3Kwvq-W7qEGKP8-hYyRFxTVi1g8/view?usp=sharing
+- AskAutomations: https://askautomations.com
+- LinkedIn: https://www.linkedin.com/in/aayush-shah-cs/
+- X: https://x.com/AayushShah001
+- Resume: https://drive.google.com/file/d/1LKfqJ3Kwvq-W7qEGKP8-hYyRFxTVi1g8/view?usp=sharing
+- Research paper: https://ieeexplore.ieee.org/document/10984781
 
 <p align="center">
   <sub>Last updated: 2026-04-27</sub>
